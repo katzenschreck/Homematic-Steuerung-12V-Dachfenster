@@ -1,1 +1,1 @@
-# Homematic Steuerung für Dachfenster
+# Homematic Steuerung für 3 12V Dachfensterantriebe
