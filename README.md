@@ -5,6 +5,8 @@
  In FHEM oder Rasperrymatic/CCU3 wird das Modul als HM-MOD-RE-8 erkannt. Es werden aber nur die ersten 6 von 8 Kanälen benutzt.<br>
  Die Platine (160mmx100mm) wurde mit KiCad erstellt und in China gefertigt.<br>
  <br>
+ Geflasht wird der Arduino Pro Mini mit der Arduino-IDE<br>
+ <br>
  Benötigte Hardware<br>
 -1x Arduino Pro Mini ATmega328P (3.3V/8MHz)<br>
 -1x CC1101 Funkmodul (868 MHz)<br>
