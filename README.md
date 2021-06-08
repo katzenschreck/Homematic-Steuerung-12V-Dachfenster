@@ -1,1 +1,1 @@
-# Homematic-Steuerung-f-r-Dachfenster
+# Homematic Steuerung für Dachfenster
