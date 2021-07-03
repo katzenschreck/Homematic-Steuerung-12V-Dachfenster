@@ -2,8 +2,8 @@
  
  Eine Steuerung mit drei Polwendern für 12Volt Gleichstromantriebe basierend auf der Asksin++ Bibliothek von <a href="http://https://github.com/pa-pa/AskSinPP">pa-pa</a>.
  
- Ursprünglich hatten die DachfensterJalousien eine Funksteuerung mit Akkus und Solarzellen.<br>
- Da der Wunsch bestand, die Antriebe über die Smarthomesteuerung fahren zu können, wurde eine Steuerung entworfen und die Antriebsmotore direk per Kabel an diese angeschlossen.<br>
+ Ursprünglich hatten die Dachfensterjalousien eine Funksteuerung mit Akkus und Solarzellen.<br>
+ Da der Wunsch bestand, die Antriebe über die Homematicsteuerung fahren zu können, wurde eine Steuerung entworfen und die Antriebsmotore direk per Kabel an diese angeschlossen.<br>
  In FHEM oder Rasperrymatic/CCU3 wird das Modul als HM-MOD-RE-8 erkannt. Es werden aber nur die ersten 6 von 8 Kanälen benutzt.<br>
  Die Platine (160mmx100mm) wurde mit KiCad erstellt und in China gefertigt.<br>
  <br>
