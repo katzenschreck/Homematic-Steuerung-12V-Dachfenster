@@ -12,7 +12,7 @@
  Benötigte Hardware<br>
 -1x Arduino Pro Mini ATmega328P (3.3V/8MHz)<br>
 -1x CC1101 Funkmodul (868 MHz)<br>
--1x Trafo 230V/12V, 50VA, diverse Kleinteile (z.B. von Reichelt) <a href="https://www.reichelt.de/my/1860438">Warenkorb</a>.<br>
+-1x Trafo 230V/12V, 50VA, diverse Kleinteile (z.B. von Reichelt <a href="https://www.reichelt.de/my/1860438">Warenkorb</a>).<br>
 -Gehäuse / Verschraubungen (z.B. von Amazon)<br>
 -FTDI Adapter (wird nur zum Flashen benötigt)<br>
 
