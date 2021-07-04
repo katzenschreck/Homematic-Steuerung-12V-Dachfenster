@@ -13,7 +13,7 @@
 -1x Arduino Pro Mini ATmega328P (3.3V/8MHz)<br>
 -1x CC1101 Funkmodul (868 MHz)<br>
 -1x Trafo 230V/12V, 50VA, diverse Kleinteile (z.B. von Reichelt) <a href="https://www.reichelt.de/my/1860435">Warenkorb</a>.<br>
--Gehäuse (z.B. von Amazon)<br>
+-Gehäuse / Verschraubungen (z.B. von Amazon)<br>
 -FTDI Adapter (wird nur zum Flashen benötigt)<br>
 
 ![20210511_200453 (2)](https://user-images.githubusercontent.com/54813823/121245362-3be33280-c8a0-11eb-8381-da3ecbc8c681.jpg)
