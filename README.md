@@ -1,6 +1,6 @@
 # Homematic Steuerung für drei 12V Dachfensterjalousieantriebe
  
- Eine Steuerung mit drei Polwendern für 12Volt Gleichstromantriebe basierend auf der Asksin++ Bibliothek von <a href="http://https://github.com/pa-pa/AskSinPP">pa-pa</a>.
+ Eine Steuerung mit drei Polwendern für 12Volt Gleichstromantriebe basierend auf der Asksin++ Bibliothek von <a href="https://github.com/pa-pa/AskSinPP">pa-pa</a>.
  
  Ursprünglich hatten die Dachfensterjalousien eine Funksteuerung mit Akkus und Solarzellen.<br>
  Da der Wunsch bestand, die Antriebe über die Homematicsteuerung fahren zu können, wurde eine Steuerung entworfen und die Antriebsmotore direkt per Kabel an diese angeschlossen.<br>
